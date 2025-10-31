@@ -21,7 +21,7 @@
 ## 🚀 Featured Projects
 
 ### [苍穹外卖系统] - CRUD应用
-**技术栈**: MySQL, Redis, SpringMVC, springboot
+**技术栈**: SSM,Druid连接池, Redis, JWT认证, SwaggerAPI文档, OSS文件存储, Maven项目管理, Git版本控制
 
 - 主导微服务拆分，从单体架构迁移到微服务架构
 - 设计并实现商品、订单、用户等核心微服务
