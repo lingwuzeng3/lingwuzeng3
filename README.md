@@ -14,27 +14,25 @@
 - **Database**: MySQL, Redis
 - **Message Queue**: RabbitMQ
 
-### DevOps & Infrastructure
+### DevTools
 - **Container**: Docker
 - **Tools**: Git, Maven, Linux, Nginx
 
 ## 🚀 Featured Projects
 
 ### [苍穹外卖系统] - CRUD应用
-**技术栈**: SSM,Druid连接池, Redis, JWT认证, SwaggerAPI文档, OSS文件存储, Maven项目管理, Git版本控制
+**技术栈**: SSM, Redis, JWT认证, SwaggerAPI文档, OSS文件存储, Maven, Git
 
-- 主导微服务拆分，从单体架构迁移到微服务架构
-- 设计并实现商品、订单、用户等核心微服务
-- 使用Seata解决分布式事务问题
-- 通过Sentinel实现流量控制和系统保护
+- 基础的CRUD，处理从nginx反向代理到后端的请求
+- 设计并实现商品、订单、用户等核心表与关联
+- 使Spring Task解决超时处理问题
+- 通过AOP实现请求时间，日志等自动记录
 
 ### [黑马点评平台] - Redis应用
 **技术栈**: Spring Boot, Redis, RabbitMQ
 
-- 构建实时数据处理流水线，日处理数据量10TB+
-- 优化JVM参数，GC时间减少70%
-- 设计缓存策略，接口响应时间<100ms
-- 实现数据分片存储，支持水平扩展
+- 构建Intercepter拦截登录请求验证
+- 设计缓存策略，解决缓存穿透，击穿
 
 ## 📊 GitHub Stats
 
