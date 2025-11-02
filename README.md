@@ -7,10 +7,10 @@
 **Java Backend Developer**
 
 ## 🛠️ Tech Stack
+### stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,androidstudio,cpp,spring,redis,mysql)](https://skillicons.dev)
 ### Tools
 ![tools](https://skillicons.dev/icons?i=git,maven,docker,github,ps,postman)
-### stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,androidstudio,cpp,spring,redis)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
