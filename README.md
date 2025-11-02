@@ -7,16 +7,10 @@
 **Java Backend Developer**
 
 ## 🛠️ Tech Stack
-
-### Backend Development
-- **Core**: Java 8/11/17
-- **Frameworks**: Spring Boot, Spring Cloud, Spring MVC, MyBatis
-- **Database**: MySQL, Redis
-- **Message Queue**: RabbitMQ
-
-### DevTools
-- **Container**: Docker
-- **Tools**: Git, Maven, Linux, Nginx
+### Tools
+![tools](https://skillicons.dev/icons?i=git,maven,docker,github,ps,postman)
+### stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,androidstudio,cpp,spring,redis)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
