@@ -12,6 +12,7 @@
 ### Tools
 ![tools](https://skillicons.dev/icons?i=git,maven,docker,github,ps,postman)
 
+<!--
 ## 🚀 Featured Projects
 
 ### [苍穹外卖系统] - CRUD应用
@@ -29,6 +30,7 @@
 - 利用String自增实现全局id生成器
 - 设计互斥|过期策略，解决缓存穿透，击穿
 - 通过redis分布式锁解决超卖问题
+-->
 
 ## 📊 GitHub Stats
 
