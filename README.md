@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 ### stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,androidstudio,cpp,spring,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,kotlin,spring,redis,mysql,linux)](https://skillicons.dev)
 ### Tools
 ![tools](https://skillicons.dev/icons?i=git,maven,docker,github,ps,postman)
 
@@ -26,7 +26,9 @@
 **技术栈**: Spring Boot, Redis, RabbitMQ
 
 - 构建Intercepter拦截登录请求验证
-- 设计缓存策略，解决缓存穿透，击穿
+- 利用String自增实现全局id生成器
+- 设计互斥|过期策略，解决缓存穿透，击穿
+- 通过redis分布式锁解决超卖问题
 
 ## 📊 GitHub Stats
 
